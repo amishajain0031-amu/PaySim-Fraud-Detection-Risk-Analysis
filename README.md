@@ -160,7 +160,7 @@ I also spent time helping 8 senior citizens with simple daily tasks and providin
   Dhakoli, Zirakpur Punjab
 - **Tree Plantation Drive** – Planted 8 trees and contributed towards improving the environment and promoting greener surroundings.
 
-  <!-- Sujanpur Tira Distt Hamirpur HP -->
+  Sujanpur Tira Distt Hamirpur HP 
 - **Helping Elder Citizens** –  Assisted 8 senior citizens with simple daily activities and provided support whenever required.
 
 <!-- you can write impacts according to your experience in your words-->
@@ -198,6 +198,13 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+I would like to express my sincere gratitude to SURE Trust for providing me with the opportunity to undertake this six-month internship. This internship has been a valuable learning experience that helped me develop practical knowledge and skills in Data Analytics, Data Science, Python, Machine Learning, and Power BI.
+
+I am thankful to the management, mentors, trainers, and team members of SURE Trust for their continuous guidance, support, and encouragement throughout the internship. Their valuable feedback and practical guidance helped me improve my technical, analytical, and professional skills.
+
+I am also grateful for the opportunity to work on real-world projects, particularly the PaySim Fraud Detection & Risk Analysis project, which allowed me to apply my knowledge to a large dataset and gain hands-on experience in data analysis and machine learning.
+
+Finally, I would like to thank everyone at SURE Trust who contributed directly or indirectly to making this internship a meaningful and enriching experience.
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Keerthana V.](https://www.linkedin.com/in/keerthana-v-294a311b9/).,Senior Executive- Business analyst - [EXL]
