@@ -156,23 +156,18 @@ I also spent time helping 8 senior citizens with simple daily tasks and providin
 
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- Dhakoli, Zirakpur Punjab -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+
+  Dhakoli, Zirakpur Punjab
+- **Tree Plantation Drive** – Planted 8 trees and contributed towards improving the environment and promoting greener surroundings.
 
   <!-- Sujanpur Tira Distt Hamirpur HP -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** –  Assisted 8 senior citizens with simple daily activities and provided support whenever required.
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+Through this initiative, I was able to support 8 people and contribute to the planting of 8 plants. The activity helped create awareness about environmental conservation and encouraged people to take small but meaningful steps toward protecting nature. Planting 8 plants contributes to a greener environment, while helping 8 people strengthened community participation and social responsibility. This experience taught me the importance of teamwork, community service, and environmental sustainability.
 
 ### **Photos**
 
