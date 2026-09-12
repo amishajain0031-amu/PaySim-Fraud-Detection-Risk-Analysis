@@ -83,7 +83,9 @@ The internship helped me develop hands-on experience in handling large datasets,
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: PaySim Fraud Detection & Risk Analysis</h3>
+<h3 id="project1">
+    Project: PaySim Fraud Detection & Risk Analysis
+</h3>
 <p>
  Developed a **PaySim Fraud Detection & Risk Analysis** system using Python and Streamlit to analyze transaction patterns, identify suspicious transactions, and classify risk levels. Built interactive dashboards to visualize fraud trends and implemented rule-based risk scoring to detect potentially fraudulent transactions.
 
