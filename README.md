@@ -140,8 +140,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/People%20help.jpeg"
-<img src="https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/Planting.jpeg"
+<img src="[https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/People%20help.jpeg](https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/tree/main/Community%20services)"
+<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
