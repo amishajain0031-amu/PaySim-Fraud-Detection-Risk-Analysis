@@ -146,9 +146,14 @@ LST and SST sessions helped me....
 
 ## **Community Services**
 
-<!-- Participated in community service activities by supporting poor and elderly people and contributing to environmental protection through tree plantation drives. These experiences helped me develop empathy, social responsibility, teamwork, and a commitment to giving back to the community. -->
+During my internship period, I participated in multiple community-oriented activities
+Through these activities, I was able to contribute to both environmental improvement and community well-being. The experience helped me develop a greater sense of social responsibility, empathy, communication, and coordination. It also taught me that even small efforts can make a positive difference in the lives of others and in the environment.
+As part of the community service activities during my internship, I participated in activities focused on environmental care and helping senior citizens. I planted 8 trees as a contribution towards creating a greener and healthier environment. This activity helped me understand the importance of taking responsibility for our surroundings and contributing to environmental sustainability.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+I also spent time helping 8 senior citizens with simple daily tasks and providing assistance wherever needed. This experience helped me understand the importance of kindness, empathy, patience, and supporting people in the community.
+
+
+
 
 ### **Activities Involved**
 <!-- add the location where you given -->
