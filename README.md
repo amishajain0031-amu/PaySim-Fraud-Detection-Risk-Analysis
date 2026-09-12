@@ -141,7 +141,7 @@ During my internship period, I participated in multiple community-oriented activ
 
 <div align="center">
 <img src="https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/Community%20services/People%20help.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/Community%20services/Planting.jpeg" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
