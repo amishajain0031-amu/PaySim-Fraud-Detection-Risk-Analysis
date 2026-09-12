@@ -64,6 +64,11 @@
 ## Overall Learning 
 
 The Data Analyst with AI course helped me build practical skills in Python, SQL, Excel, data cleaning, data visualization, statistics, and AI-assisted data analysis. I learned how to analyze real-world datasets, identify patterns, create meaningful dashboards, and use data to solve business problems. Through projects like PaySim Fraud Detection, I also gained hands-on experience in applying data analysis and AI/ML concepts to real-world scenarios.
+During my six-month internship, I gained practical experience in Data Analytics, Data Science, and Business Intelligence by working on real-world data analysis and visualization tasks. Throughout the internship, I worked with large datasets, performed data cleaning and preprocessing, conducted Exploratory Data Analysis (EDA), and extracted meaningful insights from data. I also developed skills in Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, and Power BI.
+
+As part of my internship, I worked on a PaySim Fraud Detection & Risk Analysis project involving approximately 6 million transaction records. I analyzed transaction patterns, identified potential fraud indicators, performed feature engineering, and applied machine learning techniques for fraud classification and risk analysis. I also created Power BI dashboards to present important findings and make the analysis easier to understand.
+
+The internship helped me develop hands-on experience in handling large datasets, data visualization, machine learning, dashboard development, analytical thinking, and presenting data-driven insights. It also improved my ability to work on an end-to-end data project, starting from raw data preparation and analysis through to visualization and interpretation of results.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
