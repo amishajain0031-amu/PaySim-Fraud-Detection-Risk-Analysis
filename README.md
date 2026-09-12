@@ -89,8 +89,38 @@ The internship helped me develop hands-on experience in handling large datasets,
 <p>
  Developed a **PaySim Fraud Detection & Risk Analysis** system using Python and Streamlit to analyze transaction patterns, identify suspicious transactions, and classify risk levels. Built interactive dashboards to visualize fraud trends and implemented rule-based risk scoring to detect potentially fraudulent transactions.
 
+**Technologies Used**
+Python – Data analysis, preprocessing, and machine learning
+Pandas – Data manipulation and cleaning
+NumPy – Numerical analysis
+Matplotlib & Seaborn – Data visualization and EDA
+Scikit-learn – Machine learning and model evaluation
+Jupyter Notebook – Data analysis and experimentation
+Power BI – Interactive dashboards and business intelligence
+SQL – Data querying and database analysis 
+Microsoft Excel – Data cleaning, analysis, and reporting
+Git & GitHub – Version control and project management
+
+**Roles & Responsibilities**
+Collected, cleaned, and preprocessed large datasets for analysis.
+Performed Exploratory Data Analysis (EDA) to identify trends, patterns, and anomalies.
+Used Python, Pandas, and NumPy for data manipulation and analysis.
+Created visualizations using Matplotlib and Seaborn to communicate insights effectively.
+Worked with the PaySim dataset containing approximately 6 million transaction records for fraud detection and risk analysis.
+Performed feature engineering and prepared data for machine learning models.
+Developed and evaluated machine learning classification models for identifying fraudulent transactions.
+Analyzed fraud patterns and key factors contributing to financial transaction risk.
+Developed interactive Power BI dashboards to present KPIs, trends, and analytical insights.
+Worked on transforming raw data into meaningful and actionable business insights.
+Documented analysis, methodologies, findings, and project outcomes.
+Used Git and GitHub for version control and project documentation.
+Presented project findings and insights in a clear and understandable manner.
+
+
+
 </p>
 <p>
+    The complete project documentation, source code, and deployed application are maintained separately.
 <a href="https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/SURE%20Trust%20Project%20Report%20Document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
