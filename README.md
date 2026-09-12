@@ -84,7 +84,7 @@ The Data Analyst with AI course helped me build practical skills in Python, SQL,
 
 </p>
 <p>
-  <a href="https://github.com/sure-trust/AMISHA-JAIN-g2-data-analytics/blob/1f851d458aa54b77888e21949f32c6c96d33f994/Final%20capstone%20project/Amisha_Jain_PaySim_Project_Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href=https://github.com/amishajain0031-amu/PaySim-Fraud-Detection-Risk-Analysis/blob/main/SURE%20Trust%20Project%20Report%20Document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
